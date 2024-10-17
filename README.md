@@ -2,6 +2,8 @@
 
 Supports AES-128, AES-192, and AES-256
 
+> Written for a cyber security class at BYU. Repository created after development for archival purposes.
+
 ## Compile and Run
 
 In order to compile, you'll have to have `rustc` installed. This can usually be installed using the default package manager.
